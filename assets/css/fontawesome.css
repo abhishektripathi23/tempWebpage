@@ -7,18 +7,7 @@
   font-family: var(--fa-style-family, "Font Awesome 6 Free");
   font-weight: var(--fa-style, 900); }
 
-.fa,
-.fas,
-.fa-solid,
-.far,
-.fa-regular,
-.fal,
-.fa-light,
-.fat,
-.fa-thin,
-.fad,
-.fa-duotone,
-.fab,
+
 .fa-brands {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
